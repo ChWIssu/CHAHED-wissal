@@ -1,8 +1,8 @@
-# Hi 👋 I'm Wissal you can call me wissu that's what i prefer 🌚
+# Hi I'm Wissal you can call me wissu that's what i prefer 🌚
 
 ### 🎓 3rd Year Computer Science Student | 🚀 Future Full Stack Developer & AI Enthusiast
 <p align="center">
-  <img src="https://i.pinimg.com/originals/24/7d/11/247d11019688cf648935c105658e469d.gif" width="600" alt="Coding Anime GIF">
+  <img src="https://i.pinimg.com/736x/17/f8/5f/17f85f0c3b5a11dcdeebd876e137a11e.jpg">
 </p>
 ---
 
