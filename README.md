@@ -1,4 +1,4 @@
-# Hi 👋 I'm [Wissal] you can call me wissu that's what i prefer 🌚
+# Hi 👋 I'm Wissal you can call me wissu that's what i prefer 🌚
 
 ### 🎓 3rd Year Computer Science Student | 🚀 Future Full Stack Developer & AI Enthusiast
 <p align="center">
